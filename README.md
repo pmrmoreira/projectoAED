@@ -1,4 +1,4 @@
-# DEISI Rockstar 2021
+# DEISI Rockstar 
 
 Projeto universitário desenvolvido na **Universidade Lusófona** para a cadeira de **Algoritmos e Estruturas de Dados (AED)**. Consiste num sistema de análise e consulta de dados musicais (estilo Spotify) a partir de ficheiros de texto.
 
